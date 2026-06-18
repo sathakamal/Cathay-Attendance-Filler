@@ -9,6 +9,15 @@ A Safety Dialogue Attendance Record Filler for Cathay Dining
 - 🌐 Auto-submit attendance
 - 🎨 Beautiful, modern UI
 
+## Screenshots
+
+<!-- Add your screenshots here! Place them in the screenshots/ folder and uncomment the lines below -->
+<!--
+![Main Screen](screenshots/main.png)
+![Scanner](screenshots/scanner.png)
+![Settings](screenshots/settings.png)
+-->
+
 ## Permissions
 
 - Camera - for barcode scanning
