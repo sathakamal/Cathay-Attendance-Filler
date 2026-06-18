@@ -11,9 +11,9 @@ A Safety Dialogue Attendance Record Filler for Cathay Dining
 
 ## Screenshots
 
-![Main Screen](screenshots/main.jpeg)
-![Setting](screenshots/setting.jpeg)
-![Success screen](screenshots/success.jpeg)
+<img src="screenshots/main.jpeg" width="300" alt="Main Screen">
+<img src="screenshots/setting.jpeg" width="300" alt="Setting">
+<img src="screenshots/success.jpeg" width="300" alt="Success screen">
 
 ## Permissions
 
