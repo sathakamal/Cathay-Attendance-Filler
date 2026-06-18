@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MSFormsAutofill" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/card_navy</item>
+        <item name="android:windowBackground">@color/dark_navy</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        
+        <!-- Customize Material components -->
+        <item name="materialButtonStyle">@style/Widget.Material3.Button</item>
+    </style>
+</resources>
